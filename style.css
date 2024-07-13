@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+
+#container{
+    margin: 50px auto;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+#color-line{
+    font-size: 20px;
+}
+
+
+#copy-btn{
+    background-color: rgba(0, 128, 0, 0.571);
+    color: white;
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+    
+}
+
+#copy-btn:hover{
+    opacity: .5;
+    
+}
